@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Bloom",
+      "imageSrc": "projects/bloom.png",
+      "description": "This is a project made in my CSC 201 (Web Programming) class as a final project in school with HTML.",
+      "skills": ["HTML", "JavaScript", "Bootstrap"],
+      "demo": "https://ppp.princewillogowa.repl.co/",
+      "source": "https://replit.com/@PrincewillOgowa/ppp#index.html"
+    },
+    {
+      "title": "Note taking app",
+      "imageSrc": "projects/note.png",
+      "description": "This is a project made to learn Flask with all of its functionalities. I deployed it to Heroku",
+      "skills": ["Flask", "Python", "MongoDB"],
+      "demo": " https://flask-web-app-480f54ef7d62.herokuapp.com/",
+      "source": "https://github.com/topeprincewill/flask-web-app"
+    }
+  ]
