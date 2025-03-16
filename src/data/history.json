@@ -1,29 +1,26 @@
-[
+[   {
+  "role": "Software Engineer",
+  "organisation": "The Cigna Group",
+  "startDate": "January 2025",
+  "endDate": "Present",
+  "experiences": ["specializing in both frontend and backend development using Spring Boot (Java). Proficient in building robust APIs, optimizing application performance, and automating deployment processes using Jenkins"],
+  "imageSrc": "history/cigna2.png"
+   },
     {
       "role": "SWE Intern",
-      "organisation": "Lumen",
-      "startDate": "April, 2023",
-      "endDate": "Aug 2023",
-      "experiences": ["Shipped a feature that generated insights from telemetry events", "Reduced investigation time into windows quality issues by 86.6%0%"],
-      "imageSrc": "history/lumenreal.png"
+      "organisation": "The Cigna Group",
+      "startDate": "May 2024",
+      "endDate": "Aug 2024",
+      "experiences": ["Automated closure of 1000+ Health Scan defects, resulting in 20% improvement in the Servicenow platform memory and efficiency.", 
+      "Worked on a team with 6 other interns to develop a full stack web app, Cignal,  fully leading frontend deployment with AWS services including s3 buckets, Route-53, and CloudFront using Terraform as an IaC"],
+      "imageSrc": "history/cigna2.png"
     },
     {
       "role": "Research Machine Learning Intern",
       "organisation": "Loyola University Chicago",
-      "startDate": "May, 2022",
-      "endDate": "Aug, 2022",
+      "startDate": "May, 2023",
+      "endDate": "Aug, 2023",
       "experiences": ["Developed 3 Deep Learning models and LSTM able to predict virus mutation", "Implemented one-hot encoding on amino acid sequences"],
       "imageSrc": "history/loyolaaa.png"
-    },
-    {
-      "role": "Teaching Assistant",
-      "organisation": "Lincoln University Pennsylvania",
-      "startDate": "Feb, 2022",
-      "endDate": "Present",
-      "experiences": [
-        "Instructed two sections of 40 students in class in Python",
-        "Helped reduce office hours for over 65 students by 40%"
-      ],
-      "imageSrc": "history/lincolnnn.png"
     }
   ]
